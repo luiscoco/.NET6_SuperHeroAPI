@@ -1,4 +1,5 @@
 # .NET6_SuperHeroAPI
+The detailed video explaning the code is in the URL: https://www.youtube.com/watch?v=dtthbiP3SE0
 
 1.Open the appsettings.json and set the server name to localhost or to .
 ```json
